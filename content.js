@@ -589,13 +589,13 @@ const topicHTML = {
         <li>Choose the same letter they used before</li>
       </ol>
       <li>Click the <span>Folder:</span> box</li>
-      <li>Type: <span class="span2";>\\\\</span><span>10.170.0.150</span><span class="span2";>\\</span><span>azmedia02</span></li>
+      <li>Type: <span class="span2";>\\\\</span><span>ip address</span><span class="span2";>\\</span><span>azmedia02</span></li>
       <li>Check the box: <span>Reconnect at sign-in</span></li>
       <li>Check the box: <span>Connect using different credentials</span></li>
       <li>Enter network credentials:</li>
       <ol type="I">
         <li>Username: <span>svc_media</span></li>
-        <li>Password: <span>Midwestern19555!</span></li>
+        <li>Password: <span>**********</span></li>
       </ol>
     </ol>
     <hr>
