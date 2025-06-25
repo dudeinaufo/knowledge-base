@@ -594,7 +594,7 @@ const topicHTML = {
       <li>Check the box: <span>Connect using different credentials</span></li>
       <li>Enter network credentials:</li>
       <ol type="I">
-        <li>Username: <span>svc_media</span></li>
+        <li>Username: <span>**********</span></li>
         <li>Password: <span>**********</span></li>
       </ol>
     </ol>
