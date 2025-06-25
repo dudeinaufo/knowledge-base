@@ -1421,7 +1421,7 @@ const topicHTML = {
     </ol>
     <hr>
     <h4>Suggestion</h4>
-    <p>If this is a user’s personal workstation that won’t update, you can skip steps <span>7</span> through <span>9</span>. 
+    <p>If this is a user’s personal workstation that won’t update, you can skip steps <span>10</span> through <span>13</span>. 
     However, if the computer is located in a lecture hall or classroom, you’ll need to set the <span>Startup type</span> back 
     to <span>Disabled</span> after completing the updates.</p>
   `,
